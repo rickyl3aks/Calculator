@@ -30,7 +30,7 @@ body {
 }
 
 .calculator-grid > button:hover {
-  background: rgba(23, 24, 23, 0.9);
+  background: rgb(23, 24, 23, 0.7);
 }
 
 .calculator .value {
